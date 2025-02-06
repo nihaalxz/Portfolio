@@ -7,13 +7,13 @@ body
     background-size: cover;
     height:100vh;
 }
-li a
+li a,.user_text
 {
    
         font-family: "Pacifico", serif;
         font-weight: 200;
         font-style: normal;
-        ma
+        
 }
 .navbar
 {
